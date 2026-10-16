@@ -12,76 +12,78 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Raiva =====
-[1]Raiva       |09:38:23 | 15-10-2026| login OK @raivamelany | score=1200 rank=5212
-[1]Raiva       |09:38:23 | 15-10-2026| serverTime=2026-10-15T09:38:23.000Z local=2026-10-15T09:38:23.311Z
+[1]Raiva       |06:38:24 | 16-10-2026| login OK @raivamelany | score=1270 rank=4897
+[1]Raiva       |06:38:24 | 16-10-2026| serverTime=2026-10-16T06:38:24.000Z local=2026-10-16T06:38:24.284Z
 --> [1]Raiva menjalankan: Claim Daily
-[1]Raiva       |09:38:24 | 15-10-2026| daily: OK +10 poin score=1210
---> [1]Raiva menjalankan: Auto All Tasks (6 pending)
-[1]Raiva       |09:38:26 | 15-10-2026| [1/6] 68f22c3e (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"43cc226d-53f6-47f3-ba12-591c78249d4f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817441210109 | proof=https://x.com/raivamelany/status/2110666070509116975
-[1]Raiva       |09:38:26 | 15-10-2026| delay 10s...
-[1]Raiva       |09:38:38 | 15-10-2026| [2/6] 3e6dc4ef (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"43cc226d-53f6-47f3-ba12-591c78249d4f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817441210109 | proof=https://x.com/raivamelany/status/2110666346306120836
-[1]Raiva       |09:38:38 | 15-10-2026| delay 10s...
-[1]Raiva       |09:38:50 | 15-10-2026| [3/6] ec8513a4 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"43cc226d-53f6-47f3-ba12-591c78249d4f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817441210109
-[1]Raiva       |09:38:50 | 15-10-2026| delay 10s...
-[1]Raiva       |09:39:02 | 15-10-2026| [4/6] 1e029da8 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"43cc226d-53f6-47f3-ba12-591c78249d4f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817441210109 | proof=https://x.com/raivamelany/status/2110666487256160001
-[1]Raiva       |09:39:02 | 15-10-2026| delay 10s...
-[1]Raiva       |09:39:15 | 15-10-2026| [5/6] e41210a5 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"43cc226d-53f6-47f3-ba12-591c78249d4f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817441210109 | proof=https://x.com/raivamelany/status/2110666473870828987
-[1]Raiva       |09:39:15 | 15-10-2026| delay 10s...
-[1]Raiva       |09:39:27 | 15-10-2026| [6/6] 6ee55c06 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"43cc226d-53f6-47f3-ba12-591c78249d4f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817441210109 | proof=https://x.com/raivamelany/status/2110666472328178313
-[1]Raiva       |09:39:27 | 15-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Raiva       |09:39:28 | 15-10-2026| [1/1] 68f22c3e (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"43cc226d-53f6-47f3-ba12-591c78249d4f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174412101091 | proof=https://x.com/raivamelany/status/2110666376038269591
+[1]Raiva       |06:38:25 | 16-10-2026| daily: OK +10 poin score=1280
+--> [1]Raiva menjalankan: Auto All Tasks (7 pending)
+[1]Raiva       |06:38:26 | 16-10-2026| [1/7] 394defc6 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"394defc6-77a7-4d1a-bf20-4fe560dc875f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211070668870173 | proof=https://x.com/raivamelany/status/2110983264144326663
+[1]Raiva       |06:38:26 | 16-10-2026| delay 10s...
+[1]Raiva       |06:38:39 | 16-10-2026| [2/7] e5b8202e (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"394defc6-77a7-4d1a-bf20-4fe560dc875f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211070668870173 | proof=https://x.com/raivamelany/status/2110983182592457253
+[1]Raiva       |06:38:39 | 16-10-2026| delay 10s...
+[1]Raiva       |06:38:51 | 16-10-2026| [3/7] 0609cffc (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"394defc6-77a7-4d1a-bf20-4fe560dc875f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211070668870173 | proof=https://x.com/raivamelany/status/2110983174589412796
+[1]Raiva       |06:38:51 | 16-10-2026| delay 10s...
+[1]Raiva       |06:39:03 | 16-10-2026| [4/7] 8f50de21 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"394defc6-77a7-4d1a-bf20-4fe560dc875f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211070668870173 | proof=https://x.com/raivamelany/status/2110983378602365846
+[1]Raiva       |06:39:03 | 16-10-2026| delay 10s...
+[1]Raiva       |06:39:14 | 16-10-2026| [5/7] 24fb0a1f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"394defc6-77a7-4d1a-bf20-4fe560dc875f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211070668870173 | proof=https://x.com/raivamelany/status/2110983405855378086
+[1]Raiva       |06:39:14 | 16-10-2026| delay 10s...
+[1]Raiva       |06:39:27 | 16-10-2026| [6/7] f482983d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"394defc6-77a7-4d1a-bf20-4fe560dc875f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211070668870173 | proof=https://x.com/raivamelany/status/2110983324938949809
+[1]Raiva       |06:39:27 | 16-10-2026| delay 10s...
+[1]Raiva       |06:39:38 | 16-10-2026| [7/7] 9918b658 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"394defc6-77a7-4d1a-bf20-4fe560dc875f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211070668870173 | proof=https://x.com/raivamelany/status/2110983359667885001
+[1]Raiva       |06:39:38 | 16-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Raiva       |06:39:41 | 16-10-2026| [1/1] 394defc6 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"394defc6-77a7-4d1a-bf20-4fe560dc875f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2110706688701735 | proof=https://x.com/raivamelany/status/2110983538193812080
 --> [1]Raiva menjalankan: Watch Anime
-[1]Raiva       |09:39:29 | 15-10-2026| watch: 3 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse
-[1]Raiva       |09:39:29 | 15-10-2026| watch [1/3] farming oshi-captains-hat...
+[1]Raiva       |06:39:41 | 16-10-2026| watch: 3 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse
+[1]Raiva       |06:39:41 | 16-10-2026| watch [1/3] farming oshi-captains-hat...
   video baru dikenal: oshi-captains-hat (katalog +4)
-[1]Raiva       |09:39:31 | 15-10-2026| watch oshi-captains-hat: durasi tak diketahui, skip (record tidak disentuh)
-[1]Raiva       |09:39:36 | 15-10-2026| watch [2/3] farming oshi-rainbow-star...
-[1]Raiva       |09:39:38 | 15-10-2026| watch oshi-rainbow-star: durasi tak diketahui, skip (record tidak disentuh)
-[1]Raiva       |09:39:43 | 15-10-2026| watch [3/3] farming oshi-rainbow-lighthouse...
-[1]Raiva       |09:39:45 | 15-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
+[1]Raiva       |06:39:43 | 16-10-2026| watch oshi-captains-hat: durasi tak diketahui, skip (record tidak disentuh)
+[1]Raiva       |06:39:48 | 16-10-2026| watch [2/3] farming oshi-rainbow-star...
+[1]Raiva       |06:39:50 | 16-10-2026| watch oshi-rainbow-star: durasi tak diketahui, skip (record tidak disentuh)
+[1]Raiva       |06:39:55 | 16-10-2026| watch [3/3] farming oshi-rainbow-lighthouse...
+[1]Raiva       |06:39:56 | 16-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
 --> [1]Raiva menjalankan: Read Article
-[1]Raiva       |09:39:46 | 15-10-2026| news: 25/26 artikel selesai dibaca
-[1]Raiva       |09:39:47 | 15-10-2026| mint eligibility: {"userId":"1714837464026902528","youtube":{"url":"","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"automaticReady":true,"attemptedAt":null,"chann
-[1]Raiva       |09:39:53 | 15-10-2026| news [1/1] 100-friends-connected-by-what-we-love: OK completed=26
+[1]Raiva       |06:39:57 | 16-10-2026| news: 26/27 artikel selesai dibaca
+[1]Raiva       |06:39:58 | 16-10-2026| mint eligibility: {"userId":"1714837464026902528","youtube":{"url":"","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"automaticReady":true,"attemptedAt":null,"chann
+[1]Raiva       |06:40:05 | 16-10-2026| news [1/1] smart-pocket-800000-battles: OK completed=27
 --> [1]Raiva menjalankan: Quiz Anime
-[1]Raiva       |09:39:56 | 15-10-2026| quiz ep1: sudah dijawab
-[1]Raiva       |09:39:56 | 15-10-2026| quiz ep2: sudah dijawab
-[1]Raiva       |09:39:56 | 15-10-2026| quiz ep3: sudah dijawab
-[1]Raiva       |09:39:56 | 15-10-2026| quiz ep4: sudah dijawab
-[1]Raiva       |09:39:56 | 15-10-2026| quiz ep5: sudah dijawab
-[1]Raiva       |09:39:56 | 15-10-2026| quiz ep6: sudah dijawab
+[1]Raiva       |06:40:07 | 16-10-2026| quiz ep1: sudah dijawab
+[1]Raiva       |06:40:07 | 16-10-2026| quiz ep2: sudah dijawab
+[1]Raiva       |06:40:07 | 16-10-2026| quiz ep3: sudah dijawab
+[1]Raiva       |06:40:07 | 16-10-2026| quiz ep4: sudah dijawab
+[1]Raiva       |06:40:07 | 16-10-2026| quiz ep5: sudah dijawab
+[1]Raiva       |06:40:07 | 16-10-2026| quiz ep6: sudah dijawab
 --> [1]Raiva menjalankan: Music Missions (realtime, bisa lama!)
-[1]Raiva       |09:39:58 | 15-10-2026| music: kedua misi sudah tercapai, stop
-[1]Raiva       |09:39:58 | 15-10-2026| mission music-listens-10: sudah diklaim
-[1]Raiva       |09:39:58 | 15-10-2026| mission music-minutes-30: sudah diklaim
-[1]Raiva       |09:39:58 | 15-10-2026| mission anime-completed-3: sudah diklaim
+[1]Raiva       |06:40:10 | 16-10-2026| music: kedua misi sudah tercapai, stop
+[1]Raiva       |06:40:10 | 16-10-2026| mission music-listens-10: sudah diklaim
+[1]Raiva       |06:40:10 | 16-10-2026| mission music-minutes-30: sudah diklaim
+[1]Raiva       |06:40:10 | 16-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Raiva menjalankan: Claim Missions
-[1]Raiva       |09:39:59 | 15-10-2026| mission music-listens-10: sudah diklaim
-[1]Raiva       |09:39:59 | 15-10-2026| mission music-minutes-30: sudah diklaim
-[1]Raiva       |09:39:59 | 15-10-2026| mission anime-completed-3: sudah diklaim
+[1]Raiva       |06:40:11 | 16-10-2026| mission music-listens-10: sudah diklaim
+[1]Raiva       |06:40:11 | 16-10-2026| mission music-minutes-30: sudah diklaim
+[1]Raiva       |06:40:11 | 16-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Raiva menjalankan: Check Eligibility
 
 --- eligibility [1]Raiva ---
-  @raivamelany | score=1200 rank=5212
-  tasks    [##################--] 72/78
+  @raivamelany | score=1270 rank=4897
+  tasks    [##################--] 76/83
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
   quiz     [####################] 6/6
   watch    [####################] 18/17
   music    [####################] 11/11
-  artikel  [####################] 26/26
+  artikel  [####################] 27/27
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Raiva menjalankan: Read Manga
-[1]Raiva       |09:40:03 | 15-10-2026| manga: 0/13 chapter belum completed
+[1]Raiva       |06:40:15 | 16-10-2026| manga: 0/13 chapter belum completed
 --> [1]Raiva menjalankan: Get Gift
-[1]Raiva       |09:40:04 | 15-10-2026| gift: 0/4 belum diterima
+[1]Raiva       |06:40:15 | 16-10-2026| gift: 0/4 belum diterima
 --> [1]Raiva menjalankan: Setup Profile
-[1]Raiva       |09:40:04 | 15-10-2026| profile: bio="https://x.com/raivamelany" fav=mony rewardAt=1791686750
-[1]Raiva       |09:40:04 | 15-10-2026| profile: bonus sudah diklaim, skip
+[1]Raiva       |06:40:16 | 16-10-2026| profile: bio="https://x.com/raivamelany" fav=mony rewardAt=1791686750
+[1]Raiva       |06:40:16 | 16-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Raiva menjalankan: Bind Wallet
-[1]Raiva       |09:40:05 | 15-10-2026| wallet: sudah terikat aG8wBA1TCd... (solana)
+[1]Raiva       |06:40:16 | 16-10-2026| wallet: sudah terikat aG8wBA1TCd... (solana)
 
 == RINGKASAN ==
-- Raiva: daily=claimed | tasks OK 7/7 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/3 completed | musik 0 trek ~0s | artikel 1 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
+- Raiva: daily=claimed | tasks OK 8/8 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/3 completed | musik 0 trek ~0s | artikel 1 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
