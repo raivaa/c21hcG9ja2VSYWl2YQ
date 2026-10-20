@@ -12,86 +12,117 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Raiva =====
-[1]Raiva       |08:24:52 | 19-10-2026| login OK @raivamelany | score=1460 rank=4670
-[1]Raiva       |08:24:52 | 19-10-2026| serverTime=2026-10-19T08:24:52.000Z local=2026-10-19T08:24:52.112Z
+[1]Raiva       |08:07:59 | 20-10-2026| login OK @raivamelany | score=1570 rank=4418
+[1]Raiva       |08:07:59 | 20-10-2026| serverTime=2026-10-20T08:07:59.000Z local=2026-10-20T08:07:59.310Z
 --> [1]Raiva menjalankan: Claim Daily
-[1]Raiva       |08:24:53 | 19-10-2026| daily: OK +10 poin score=1470
---> [1]Raiva menjalankan: Auto All Tasks (10 pending)
-[1]Raiva       |08:24:56 | 19-10-2026| [1/10] 27d69bc4 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/raivamelany/status/2112097230501710878
-[1]Raiva       |08:24:56 | 19-10-2026| delay 10s...
-[1]Raiva       |08:25:09 | 19-10-2026| [2/10] 29d2bf65 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/raivamelany/status/2112097226839186568
-[1]Raiva       |08:25:09 | 19-10-2026| delay 10s...
-[1]Raiva       |08:25:22 | 19-10-2026| [3/10] 1cc2da8d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/raivamelany/status/2112097385278644819
-[1]Raiva       |08:25:22 | 19-10-2026| delay 10s...
-[1]Raiva       |08:25:35 | 19-10-2026| [4/10] e792000f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/raivamelany/status/2112097409099625088
-[1]Raiva       |08:25:35 | 19-10-2026| delay 10s...
-[1]Raiva       |08:25:48 | 19-10-2026| [5/10] 5830cfb5 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/raivamelany/status/2112097413779114528
-[1]Raiva       |08:25:48 | 19-10-2026| delay 10s...
-[1]Raiva       |08:26:01 | 19-10-2026| [6/10] 75d20c29 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/raivamelany/status/2112097622435841087
-[1]Raiva       |08:26:01 | 19-10-2026| delay 10s...
-[1]Raiva       |08:26:14 | 19-10-2026| [7/10] c4a0bafb (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/raivamelany/status/2112097366477867152
-[1]Raiva       |08:26:14 | 19-10-2026| delay 10s...
-[1]Raiva       |08:26:28 | 19-10-2026| [8/10] de7bf305 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/raivamelany/status/2112097658741887229
-[1]Raiva       |08:26:28 | 19-10-2026| delay 10s...
-[1]Raiva       |08:26:42 | 19-10-2026| [9/10] f2efc21b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/raivamelany/status/2112097768435486717
-[1]Raiva       |08:26:42 | 19-10-2026| delay 10s...
-[1]Raiva       |08:26:54 | 19-10-2026| [10/10] c821602a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/raivamelany/status/2112097782778751149
-[1]Raiva       |08:26:54 | 19-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Raiva       |08:26:56 | 19-10-2026| [1/1] 27d69bc4 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2112092800401699 | proof=https://x.com/raivamelany/status/2112097809289442928
+[1]Raiva       |08:08:00 | 20-10-2026| daily: OK +10 poin score=1580
+--> [1]Raiva menjalankan: Auto All Tasks (6 pending)
+[1]Raiva       |08:08:02 | 20-10-2026| [1/6] f8ede5f6 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/raivamelany/status/2112455227477009392
+[1]Raiva       |08:08:02 | 20-10-2026| delay 10s...
+[1]Raiva       |08:08:14 | 20-10-2026| [2/6] 6e765bbf (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/raivamelany/status/2112455416562582066
+[1]Raiva       |08:08:14 | 20-10-2026| delay 10s...
+[1]Raiva       |08:08:26 | 20-10-2026| [3/6] ecdd3dc8 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/raivamelany/status/2112455372994340533
+[1]Raiva       |08:08:26 | 20-10-2026| delay 10s...
+[1]Raiva       |08:08:38 | 20-10-2026| [4/6] f533191c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/raivamelany/status/2112455639996166320
+[1]Raiva       |08:08:38 | 20-10-2026| delay 10s...
+[1]Raiva       |08:08:50 | 20-10-2026| [5/6] 8ff68dcd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/raivamelany/status/2112455638188157310
+[1]Raiva       |08:08:50 | 20-10-2026| delay 10s...
+[1]Raiva       |08:09:02 | 20-10-2026| [6/6] 57f13195 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/raivamelany/status/2112455716286491556
+[1]Raiva       |08:09:02 | 20-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Raiva       |08:09:03 | 20-10-2026| [1/1] f8ede5f6 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2112200949674791 | proof=https://x.com/raivamelany/status/2112455787899606406
 --> [1]Raiva menjalankan: Watch Anime
-[1]Raiva       |08:26:57 | 19-10-2026| watch: 4 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse,bakeru-ikesou-jan-mv
-[1]Raiva       |08:26:57 | 19-10-2026| watch [1/4] farming oshi-captains-hat...
-  video baru dikenal: oshi-captains-hat (katalog +5)
-[1]Raiva       |08:27:00 | 19-10-2026| watch oshi-captains-hat: durasi tak diketahui, skip (record tidak disentuh)
-[1]Raiva       |08:27:05 | 19-10-2026| watch [2/4] farming oshi-rainbow-star...
-[1]Raiva       |08:27:07 | 19-10-2026| watch oshi-rainbow-star: durasi tak diketahui, skip (record tidak disentuh)
-[1]Raiva       |08:27:12 | 19-10-2026| watch [3/4] farming oshi-rainbow-lighthouse...
-[1]Raiva       |08:27:14 | 19-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
-[1]Raiva       |08:27:19 | 19-10-2026| watch [4/4] farming bakeru-ikesou-jan-mv...
-[1]Raiva       |08:27:21 | 19-10-2026| watch bakeru-ikesou-jan-mv: durasi tak diketahui, skip (record tidak disentuh)
+[1]Raiva       |08:09:04 | 20-10-2026| watch: 4 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse,bakeru-ikesou-jan-mv
+[1]Raiva       |08:09:04 | 20-10-2026| watch [1/4] farming oshi-captains-hat...
+[1]Raiva       |08:09:05 | 20-10-2026| watch oshi-captains-hat: 0% (0.00/92.00s)
+[1]Raiva       |08:09:11 | 20-10-2026| watch oshi-captains-hat: 5% (5.14/92.00s)
+[1]Raiva       |08:09:17 | 20-10-2026| watch oshi-captains-hat: 11% (10.72/92.00s)
+[1]Raiva       |08:09:23 | 20-10-2026| watch oshi-captains-hat: 17% (16.10/92.00s)
+[1]Raiva       |08:09:29 | 20-10-2026| watch oshi-captains-hat: 23% (21.46/92.00s)
+[1]Raiva       |08:09:35 | 20-10-2026| watch oshi-captains-hat: 29% (26.75/92.00s)
+[1]Raiva       |08:09:42 | 20-10-2026| watch oshi-captains-hat: 34% (32.10/92.00s)
+[1]Raiva       |08:09:48 | 20-10-2026| watch oshi-captains-hat: 41% (38.00/92.00s)
+[1]Raiva       |08:09:54 | 20-10-2026| watch oshi-captains-hat: 47% (43.36/92.00s)
+[1]Raiva       |08:10:00 | 20-10-2026| watch oshi-captains-hat: 52% (48.68/92.00s)
+[1]Raiva       |08:10:06 | 20-10-2026| watch oshi-captains-hat: 58% (54.01/92.00s)
+[1]Raiva       |08:10:18 | 20-10-2026| watch oshi-captains-hat: 64% (59.44/92.00s)
+[1]Raiva       |08:10:24 | 20-10-2026| watch oshi-captains-hat: 64% (59.44/92.00s)
+[1]Raiva       |08:10:30 | 20-10-2026| watch oshi-captains-hat: 70% (64.82/92.00s)
+[1]Raiva       |08:10:36 | 20-10-2026| watch oshi-captains-hat: 76% (70.26/92.00s)
+[1]Raiva       |08:10:42 | 20-10-2026| watch oshi-captains-hat: 82% (75.59/92.00s)
+[1]Raiva       |08:10:47 | 20-10-2026| watch oshi-captains-hat: 87% (80.95/92.00s)
+[1]Raiva       |08:10:53 | 20-10-2026| watch oshi-captains-hat: 88% (81.13/92.00s)
+[1]Raiva       |08:11:30 | 20-10-2026| watch oshi-captains-hat: posisi mentok tanpa completed, stop
+[1]Raiva       |08:11:35 | 20-10-2026| watch [2/4] farming oshi-rainbow-star...
+[1]Raiva       |08:11:37 | 20-10-2026| watch oshi-rainbow-star: 0% (0.00/86.00s)
+[1]Raiva       |08:11:43 | 20-10-2026| watch oshi-rainbow-star: 5% (5.12/86.00s)
+[1]Raiva       |08:11:49 | 20-10-2026| watch oshi-rainbow-star: 12% (10.43/86.00s)
+[1]Raiva       |08:11:55 | 20-10-2026| watch oshi-rainbow-star: 18% (15.77/86.00s)
+[1]Raiva       |08:12:01 | 20-10-2026| watch oshi-rainbow-star: 24% (21.06/86.00s)
+[1]Raiva       |08:12:07 | 20-10-2026| watch oshi-rainbow-star: 30% (26.37/86.00s)
+[1]Raiva       |08:12:13 | 20-10-2026| watch oshi-rainbow-star: 37% (32.05/86.00s)
+[1]Raiva       |08:12:19 | 20-10-2026| watch oshi-rainbow-star: 43% (37.42/86.00s)
+[1]Raiva       |08:12:25 | 20-10-2026| watch oshi-rainbow-star: 49% (42.71/86.00s)
+[1]Raiva       |08:12:31 | 20-10-2026| watch oshi-rainbow-star: 56% (48.52/86.00s)
+[1]Raiva       |08:12:37 | 20-10-2026| watch oshi-rainbow-star: 62% (53.80/86.00s)
+[1]Raiva       |08:12:43 | 20-10-2026| watch oshi-rainbow-star: 69% (59.36/86.00s)
+[1]Raiva       |08:12:49 | 20-10-2026| watch oshi-rainbow-star: 75% (64.73/86.00s)
+[1]Raiva       |08:12:55 | 20-10-2026| watch oshi-rainbow-star: 81% (70.07/86.00s)
+[1]Raiva       |08:13:01 | 20-10-2026| watch oshi-rainbow-star: 87% (75.39/86.00s)
+[1]Raiva       |08:13:07 | 20-10-2026| watch oshi-rainbow-star: 93% (80.71/86.00s)
+[1]Raiva       |08:13:07 | 20-10-2026| watch oshi-rainbow-star: COMPLETED (80.71/86.00s)
+[1]Raiva       |08:13:12 | 20-10-2026| watch [3/4] farming oshi-rainbow-lighthouse...
+[1]Raiva       |08:13:13 | 20-10-2026| watch oshi-rainbow-lighthouse: 0% (0.00/87.00s)
+[1]Raiva       |08:13:19 | 20-10-2026| watch oshi-rainbow-lighthouse: 5% (5.09/87.00s)
+[1]Raiva       |08:13:25 | 20-10-2026| watch oshi-rainbow-lighthouse: 11% (10.37/87.00s)
+[1]Raiva       |08:13:31 | 20-10-2026| watch oshi-rainbow-lighthouse: 18% (15.70/87.00s)
+[1]Raiva       |08:13:37 | 20-10-2026| watch oshi-rainbow-lighthouse: 24% (21.32/87.00s)
+[1]Raiva       |08:13:43 | 20-10-2026| watch oshi-rainbow-lighthouse: 30% (26.60/87.00s)
+[1]Raiva       |08:13:50 | 20-10-2026| watch oshi-rainbow-lighthouse: 36% (31.97/87.00s)
+[1]Raiva       |08:13:56 | 20-10-2026| watch oshi-rainbow-lighthouse: 43% (37.70/87.00s)
+[1]Raiva       |08:14:02 | 20-10-2026| watch oshi-rainbow-lighthouse: 49% (43.08/87.00s)
+[1]Raiva       |08:14:08 | 20-10-2026| watch oshi-rainbow-lighthouse: 56% (48.84/87.00s)
+[1]Raiva       |08:14:14 | 20-10-2026| watch oshi-rainbow-lighthouse: 62% (54.44/87.00s)
+[1]Raiva       |08:14:20 | 20-10-2026| watch oshi-rainbow-lighthouse: 68% (59.84/87.00s)
+[1]Raiva       |08:14:26 | 20-10-2026| watch oshi-rainbow-lighthouse: 74% (65.15/87.00s)
+[1]Raiva       |08:14:32 | 20-10-2026| watch oshi-rainbow-lighthouse: 80% (70.46/87.00s)
+[1]Raiva       |08:14:39 | 20-10-2026| watch oshi-rainbow-lighthouse: 87% (75.90/87.00s)
+[1]Raiva       |08:14:45 | 20-10-2026| watch oshi-rainbow-lighthouse: 93% (81.71/87.00s)
+[1]Raiva       |08:14:45 | 20-10-2026| watch oshi-rainbow-lighthouse: COMPLETED (81.71/87.00s)
+[1]Raiva       |08:14:50 | 20-10-2026| watch [4/4] farming bakeru-ikesou-jan-mv...
+[1]Raiva       |08:14:52 | 20-10-2026| watch bakeru-ikesou-jan-mv: 0% (0.00/181.00s)
+[1]Raiva       |08:14:58 | 20-10-2026| watch bakeru-ikesou-jan-mv: 2% (5.37/181.00s)
+[1]Raiva       |08:15:05 | 20-10-2026| watch bakeru-ikesou-jan-mv: 6% (11.00/181.00s)
+[1]Raiva       |08:15:13 | 20-10-2026| watch bakeru-ikesou-jan-mv: 9% (17.17/181.00s)
+[1]Raiva       |08:15:19 | 20-10-2026| watch bakeru-ikesou-jan-mv: heartbeat GAGAL http=503
 --> [1]Raiva menjalankan: Read Article
-[1]Raiva       |08:27:22 | 19-10-2026| news: 27/27 artikel selesai dibaca
-[1]Raiva       |08:27:23 | 19-10-2026| mint eligibility: {"userId":"1714837464026902528","wallet":{"state":"registered","ready":true},"youtube":{"url":"","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"a
-[1]Raiva       |08:27:23 | 19-10-2026| news: semua artikel sudah dibaca
+[1]Raiva       |08:15:19 | 20-10-2026| news ERROR: news-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
 --> [1]Raiva menjalankan: Quiz Anime
-[1]Raiva       |08:27:24 | 19-10-2026| quiz ep1: sudah dijawab
-[1]Raiva       |08:27:24 | 19-10-2026| quiz ep2: sudah dijawab
-[1]Raiva       |08:27:24 | 19-10-2026| quiz ep3: sudah dijawab
-[1]Raiva       |08:27:24 | 19-10-2026| quiz ep4: sudah dijawab
-[1]Raiva       |08:27:24 | 19-10-2026| quiz ep5: sudah dijawab
-[1]Raiva       |08:27:24 | 19-10-2026| quiz ep6: sudah dijawab
+[1]Raiva       |08:15:19 | 20-10-2026| quiz ERROR: quizzes http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
 --> [1]Raiva menjalankan: Music Missions (realtime, bisa lama!)
-[1]Raiva       |08:27:26 | 19-10-2026| music: kedua misi sudah tercapai, stop
-[1]Raiva       |08:27:27 | 19-10-2026| mission music-listens-10: sudah diklaim
-[1]Raiva       |08:27:27 | 19-10-2026| mission music-minutes-30: sudah diklaim
-[1]Raiva       |08:27:27 | 19-10-2026| mission anime-completed-3: sudah diklaim
+[1]Raiva       |08:15:19 | 20-10-2026| music ERROR: music-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Raiva       |08:15:20 | 20-10-2026| missions ERROR: missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
 --> [1]Raiva menjalankan: Claim Missions
-[1]Raiva       |08:27:28 | 19-10-2026| mission music-listens-10: sudah diklaim
-[1]Raiva       |08:27:28 | 19-10-2026| mission music-minutes-30: sudah diklaim
-[1]Raiva       |08:27:28 | 19-10-2026| mission anime-completed-3: sudah diklaim
+[1]Raiva       |08:15:20 | 20-10-2026| missions ERROR: missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
 --> [1]Raiva menjalankan: Check Eligibility
 
 --- eligibility [1]Raiva ---
-  @raivamelany | score=1460 rank=4670
-  tasks    [##################--] 74/84
-  mission  music-listens-10:      claimed
-  mission  music-minutes-30:      claimed
-  mission  anime-completed-3:     claimed
-  quiz     [####################] 6/6
-  watch    [####################] 18/17
-  music    [####################] 11/11
-  artikel  [####################] 27/27
-  mint: requirementsMet=false mintOpen=false discord=true
+  @raivamelany | score=1570 rank=4418
+  tasks    [###################-] 74/80
+  missions: ERROR missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  quiz: ERROR quizzes http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  watch: ERROR watch-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  music: ERROR music-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  artikel: ERROR news-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  mint: ERROR mint-eligibility http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
 
 --> [1]Raiva menjalankan: Read Manga
-[1]Raiva       |08:27:35 | 19-10-2026| manga: 0/13 chapter belum completed
+[1]Raiva       |08:15:21 | 20-10-2026| manga ERROR: manga-history http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
 --> [1]Raiva menjalankan: Get Gift
-[1]Raiva       |08:27:36 | 19-10-2026| gift: 0/4 belum diterima
+[1]Raiva       |08:15:21 | 20-10-2026| gift ERROR: gifts http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
 --> [1]Raiva menjalankan: Setup Profile
-[1]Raiva       |08:27:37 | 19-10-2026| profile: bio="https://x.com/raivamelany" fav=mony rewardAt=1791686750
-[1]Raiva       |08:27:37 | 19-10-2026| profile: bonus sudah diklaim, skip
+[1]Raiva       |08:15:21 | 20-10-2026| profile ERROR: member-settings http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
 --> [1]Raiva menjalankan: Bind Wallet
-[1]Raiva       |08:27:38 | 19-10-2026| wallet: sudah terikat aG8wBA1TCd... (solana)
+[1]Raiva       |08:15:22 | 20-10-2026| wallet ERROR: member-settings http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
 
 == RINGKASAN ==
-- Raiva: daily=claimed | tasks OK 11/11 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/4 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
+- Raiva: daily=claimed | tasks OK 7/7 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 2/4 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/0 completed | gift 0/0 diterima | profile - | wallet -
